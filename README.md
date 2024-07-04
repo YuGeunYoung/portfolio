@@ -14,11 +14,11 @@
 - GitHub: [github.com/RealLie](https://github.com/RealLie)
 
 ## Projects
-### 1. AnimalCarePlus[]
+### 1. AnimalCarePlus[https://github.com/gunho1127/animalcareplus]
    반려동물 헬스 케어 서비스 (팀 프로젝트)
    개발 기간 : 2024.03.05 ~ 2024.06.06
 
    기술 스택:
    JAVA 17 / Spring Boot / Gradle / Spring Data JPA / MySQL / Spring Security
 
-   [프로젝트 상세 설명]() 참고
+   [프로젝트 상세 설명](https://github.com/gunho1127/animalcareplus) 참고
